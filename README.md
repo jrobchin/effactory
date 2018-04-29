@@ -1,2 +1,2 @@
 # Effactory
-A framework for creating video effects.
+A toolkit for creating video effects.
