@@ -1,2 +1,2 @@
-# Effactory
-A toolkit for creating video effects.
+# Redakt
+A toolkit for editing videos.
