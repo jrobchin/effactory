@@ -1,3 +1,9 @@
+# Build Folder
+build
+
+# Executables
+bin/*
+
 # Prerequisites
 *.d
 
