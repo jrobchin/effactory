@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <opencv2/opencv.hpp>
-#include "redakt/display/videoplayer.hpp"
+#include "redakt/display/videodisplay.hpp"
 
 using namespace std;
 

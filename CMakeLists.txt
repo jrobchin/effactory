@@ -14,7 +14,7 @@ include_directories(${PROJECT_SOURCE_DIR}/include)
 add_library(
     redakt
     SHARED
-    src/display/videoplayer.cpp
+    src/display/videodisplay.cpp
     )
 target_link_libraries(redakt ${OpenCV_LIBS}) # link opencv to 
 install(TARGETS redakt DESTINATION lib)

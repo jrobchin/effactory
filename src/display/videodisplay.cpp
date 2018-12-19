@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <redakt/display/videoplayer.hpp>
+#include <redakt/display/videodisplay.hpp>
 
 void VideoPlayer::playVideo(vector<Mat> frames, string windowName, float fps) {
     namedWindow(windowName);
